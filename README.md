@@ -1,0 +1,1 @@
+# Nomadic-and-Denotified-Communities-Cooperative-Code-2026

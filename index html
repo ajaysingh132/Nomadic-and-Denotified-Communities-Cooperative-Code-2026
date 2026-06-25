@@ -2,7 +2,195 @@
 <html lang="hi">
 
 <head>
+<!-- ===================================================== -->
+<!-- SECTION B : HERO -->
+<!-- ===================================================== -->
 
+<section id="home" class="hero">
+
+<div class="container">
+
+<div class="card">
+
+<h2>
+🏛️ Nomadic & Denotified Communities
+<br>
+Cooperative Code, 2026
+</h2>
+
+<p style="font-size:20px;font-weight:bold;margin-top:15px;">
+
+Official Digital Edition
+
+</p>
+
+<p>
+
+Version 2.0
+
+</p>
+
+<hr style="margin:20px 0;">
+
+<p>
+
+<b>Founder</b><br>
+
+Ajay Singh Chouhan
+
+</p>
+
+<p>
+
+<b>Organization</b><br>
+
+GBSBFORYOU
+
+</p>
+
+<div style="margin-top:25px;">
+
+<span class="badge">
+
+One Family
+
+</span>
+
+<span class="badge">
+
+One Cooperative
+
+</span>
+
+<span class="badge">
+
+Shared Prosperity
+
+</span>
+
+<span class="badge">
+
+Digital Swaraj
+
+</span>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ===================================================== -->
+<!-- FOUNDATION DOCUMENT -->
+<!-- ===================================================== -->
+
+<section id="foundation">
+
+<div class="container">
+
+<div class="card">
+
+<h2>
+
+📜 Foundation Document
+
+</h2>
+
+<p>
+
+This Official Digital Edition is developed from the original policy framework:
+
+</p>
+
+<p>
+
+<b>
+
+The Proposed Nomadic and Denotified Communities Cooperative Bill, 2026
+
+</b>
+
+</p>
+
+<p>
+
+<a href="https://ajaysingh132.github.io/The-proposed-Nomadic-and-Denotified-Communities-Cooperative-Bill-2026/"
+
+target="_blank">
+
+Open Version 1.0 Foundation Website →
+
+</a>
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<!-- ===================================================== -->
+<!-- VERSION HISTORY -->
+<!-- ===================================================== -->
+
+<section id="versions">
+
+<div class="container">
+
+<div class="card">
+
+<h2>
+
+📚 Version History
+
+</h2>
+
+<ul>
+
+<li>
+
+<b>Version 1.0</b>
+
+Foundation Cooperative Bill
+
+</li>
+
+<li>
+
+<b>Version 2.0</b>
+
+Official Cooperative Code
+
+(Current Edition)
+
+</li>
+
+<li>
+
+<b>Future Version 3.0</b>
+
+Digital Cooperative Platform
+
+</li>
+
+<li>
+
+<b>Future Version 4.0</b>
+
+Cooperative Operating System (CoopOS)
+
+</li>
+
+</ul>
+
+</div>
+
+</div>
+
+</section>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 

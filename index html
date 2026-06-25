@@ -1,1 +1,271 @@
+<!DOCTYPE html>
+<html lang="hi">
 
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>
+Nomadic & Denotified Communities Cooperative Code, 2026
+Official Digital Edition | Version 2.0
+</title>
+
+<meta name="description"
+content="Nomadic & Denotified Communities Cooperative Code, 2026 - Official Digital Edition Version 2.0">
+
+<meta name="keywords"
+content="Nomadic, Denotified, Cooperative, Cooperative Code, Banjara, Digital Cooperative, GBSBFORYOU">
+
+<meta name="author"
+content="Ajay Singh Chouhan">
+
+<meta name="theme-color"
+content="#0b5ed7">
+
+<meta property="og:title"
+content="Nomadic & Denotified Communities Cooperative Code, 2026">
+
+<meta property="og:type"
+content="website">
+
+<meta property="og:description"
+content="Official Digital Edition Version 2.0">
+
+<meta property="og:url"
+content="https://ajaysingh132.github.io/Nomadic-and-Denotified-Communities-Cooperative-Code-2026/">
+
+<meta name="robots"
+content="index,follow">
+
+<style>
+
+:root{
+
+--primary:#0b5ed7;
+
+--secondary:#1f2937;
+
+--accent:#16a34a;
+
+--background:#f5f7fa;
+
+--surface:#ffffff;
+
+--text:#222;
+
+--border:#dddddd;
+
+--shadow:0 4px 12px rgba(0,0,0,.08);
+
+--radius:12px;
+
+}
+
+*{
+
+margin:0;
+
+padding:0;
+
+box-sizing:border-box;
+
+}
+
+html{
+
+scroll-behavior:smooth;
+
+}
+
+body{
+
+font-family:Arial,Helvetica,sans-serif;
+
+background:var(--background);
+
+color:var(--text);
+
+line-height:1.7;
+
+}
+
+header{
+
+background:var(--primary);
+
+color:white;
+
+padding:20px;
+
+position:sticky;
+
+top:0;
+
+z-index:999;
+
+box-shadow:var(--shadow);
+
+}
+
+.container{
+
+width:min(1200px,95%);
+
+margin:auto;
+
+}
+
+h1{
+
+font-size:2rem;
+
+margin-bottom:10px;
+
+}
+
+h2{
+
+margin:25px 0 15px;
+
+color:var(--primary);
+
+}
+
+h3{
+
+margin:20px 0 10px;
+
+}
+
+p{
+
+margin:12px 0;
+
+}
+
+a{
+
+color:var(--primary);
+
+text-decoration:none;
+
+}
+
+a:hover{
+
+text-decoration:underline;
+
+}
+
+.card{
+
+background:var(--surface);
+
+padding:20px;
+
+margin:20px 0;
+
+border-radius:var(--radius);
+
+box-shadow:var(--shadow);
+
+}
+
+.badge{
+
+display:inline-block;
+
+background:var(--accent);
+
+color:white;
+
+padding:6px 14px;
+
+border-radius:50px;
+
+font-size:.9rem;
+
+margin-top:10px;
+
+}
+
+.version{
+
+font-size:.95rem;
+
+opacity:.9;
+
+}
+
+footer{
+
+background:#111827;
+
+color:white;
+
+padding:40px 20px;
+
+margin-top:60px;
+
+}
+
+@media(max-width:768px){
+
+h1{
+
+font-size:1.5rem;
+
+}
+
+header{
+
+text-align:center;
+
+}
+
+}
+
+</style>
+
+</head>
+
+<body>
+
+<!-- ===================================================== -->
+
+<!-- Official Digital Edition Version 2.0 -->
+
+<!-- Founder : Ajay Singh Chouhan -->
+
+<!-- Organization : GBSBFORYOU -->
+
+<!-- License : GBSBFORYOU Community Cooperative License 1.0 -->
+
+<!-- ===================================================== -->
+
+<header>
+
+<div class="container">
+
+<h1>
+
+Nomadic & Denotified Communities Cooperative Code, 2026
+
+</h1>
+
+<div class="version">
+
+Official Digital Edition • Version 2.0
+
+</div>
+
+<div class="badge">
+
+BUILD 001
+
+</div>
+
+</div>
+
+</header>

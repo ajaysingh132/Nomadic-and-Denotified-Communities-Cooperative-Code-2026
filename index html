@@ -1,8 +1,449 @@
 <!DOCTYPE html>
 <html lang="hi">
 <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Nomadic & Denotified Communities Cooperative Code 2026 | Official Digital Edition v2.0</title>
+
+  <meta name="description" content="Official Digital Edition of the Nomadic & Denotified Communities Cooperative Code 2026.">
+  <meta name="keywords" content="Cooperative Code, Nomadic, Denotified, Banjara, GBSBFORYOU">
+  <meta name="author" content="Ajay Singh Chouhan">
+  <meta name="theme-color" content="#0b5ed7">
+
+  <style>
+
+*{
+margin:0;
+padding:0;
+box-sizing:border-box;
+}
+
+html{
+scroll-behavior:smooth;
+}
+
+body{
+font-family:Arial,Helvetica,sans-serif;
+background:#f4f7fb;
+color:#222;
+line-height:1.7;
+}
+
+header{
+background:#0b5ed7;
+color:#fff;
+padding:18px;
+position:sticky;
+top:0;
+z-index:1000;
+box-shadow:0 3px 12px rgba(0,0,0,.2);
+}
+
+.container{
+width:min(1200px,95%);
+margin:auto;
+}
+
+.logo{
+font-size:2rem;
+font-weight:bold;
+}
+
+.subtitle{
+font-size:1rem;
+margin-top:6px;
+}
+
+.hero{
+
+background:linear-gradient(135deg,#0b5ed7,#198754);
+
+color:white;
+
+padding:70px 20px;
+
+text-align:center;
+
+}
+
+.hero h1{
+
+font-size:2.4rem;
+
+margin-bottom:15px;
+
+}
+
+.hero p{
+
+font-size:1.1rem;
+
+}
+
+.button-group{
+
+margin-top:30px;
+
+display:flex;
+
+gap:15px;
+
+justify-content:center;
+
+flex-wrap:wrap;
+
+}
+
+.btn{
+
+padding:12px 24px;
+
+background:white;
+
+color:#0b5ed7;
+
+text-decoration:none;
+
+border-radius:8px;
+
+font-weight:bold;
+
+transition:.3s;
+
+}
+
+.btn:hover{
+
+background:#e8f0ff;
+
+}
+
+.card{
+
+background:white;
+
+margin:30px auto;
+
+padding:25px;
+
+border-radius:12px;
+
+box-shadow:0 5px 15px rgba(0,0,0,.08);
+
+}
+
+.card h2{
+
+color:#0b5ed7;
+
+margin-bottom:15px;
+
+}
+
+.timeline{
+
+border-left:4px solid #0b5ed7;
+
+padding-left:20px;
+
+margin-top:20px;
+
+}
+
+.timeline div{
+
+margin-bottom:18px;
+
+}
+
+footer{
+
+margin-top:60px;
+
+background:#111827;
+
+color:white;
+
+padding:35px 20px;
+
+text-align:center;
+
+}
+
+.badge{
+
+display:inline-block;
+
+padding:6px 12px;
+
+background:#198754;
+
+color:white;
+
+border-radius:30px;
+
+font-size:.85rem;
+
+margin:4px;
+
+}
+
+@media(max-width:768px){
+
+.hero h1{
+
+font-size:1.8rem;
+
+}
+
+.button-group{
+
+flex-direction:column;
+
+}
+
+}
+
+  </style>
+
 </head>
+
 <body>
+
+<header>
+
+<div class="container">
+
+<div class="logo">
+
+Nomadic & Denotified Communities Cooperative Code 2026
+
+</div>
+
+<div class="subtitle">
+
+Official Digital Edition • Version 2.0
+
+</div>
+
+</div>
+
+</header>
+
+<section class="hero">
+
+<div class="container">
+
+<h1>
+
+Nomadic & Denotified Communities Cooperative Code 2026
+
+</h1>
+
+<p>
+
+One Family • One Cooperative • Shared Prosperity • Digital Swaraj
+
+</p>
+
+<div class="button-group">
+
+<a class="btn" href="#foundation">Foundation</a>
+
+<a class="btn" href="#history">Version History</a>
+
+<a class="btn" href="#vision">Vision</a>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="foundation">
+
+<div class="container">
+
+<div class="card">
+
+<h2>
+
+📜 Foundation Document
+
+</h2>
+
+<p>
+
+This Official Digital Edition is based upon the original project:
+
+</p>
+
+<p>
+
+<strong>
+
+The Proposed Nomadic and Denotified Communities Cooperative Bill 2026
+
+</strong>
+
+</p>
+
+<p>
+
+<a href="https://ajaysingh132.github.io/The-proposed-Nomadic-and-Denotified-Communities-Cooperative-Bill-2026/" target="_blank">
+
+Open Foundation Version 1.0 →
+
+</a>
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="history">
+
+<div class="container">
+
+<div class="card">
+
+<h2>
+
+📚 Version History
+
+</h2>
+
+<div class="timeline">
+
+<div>
+
+<strong>Version 1.0</strong><br>
+
+Foundation Cooperative Bill
+
+</div>
+
+<div>
+
+<strong>Version 2.0</strong><br>
+
+Official Cooperative Code
+
+</div>
+
+<div>
+
+<strong>Version 3.0</strong><br>
+
+Digital Cooperative Platform
+
+</div>
+
+<div>
+
+<strong>Version 4.0</strong><br>
+
+Cooperative Operating System (CoopOS)
+
+</div>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="vision">
+
+<div class="container">
+
+<div class="card">
+
+<h2>
+
+🎯 Vision
+
+</h2>
+
+<p>
+
+To establish a democratic, family-centered, community-owned and digitally enabled cooperative framework for Nomadic, Semi-Nomadic and Denotified Communities under the Constitution and laws of India.
+
+</p>
+
+<div>
+
+<span class="badge">Family</span>
+
+<span class="badge">Community</span>
+
+<span class="badge">Cooperation</span>
+
+<span class="badge">Education</span>
+
+<span class="badge">Health</span>
+
+<span class="badge">Startup</span>
+
+<span class="badge">Justice</span>
+
+<span class="badge">Digital Governance</span>
+
+</div>
+
+</div>
+
+</div>
+
+</section>
+
+<footer>
+
+<div class="container">
+
+<p>
+
+<strong>
+
+Nomadic & Denotified Communities Cooperative Code 2026
+
+</strong>
+
+</p>
+
+<p>
+
+Official Digital Edition • Version 2.0
+
+</p>
+
+<p>
+
+Founder: Ajay Singh Chouhan
+
+</p>
+
+<p>
+
+Organization: GBSBFORYOU
+
+</p>
+
+<p>
+
+© 2026 GBSBFORYOU Community Cooperative License 1.0
+
+</p>
+
+</div>
+
+</footer>
 
 </body>
 </html>

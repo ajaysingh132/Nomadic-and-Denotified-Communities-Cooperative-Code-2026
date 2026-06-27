@@ -1,0 +1,17 @@
+/* ======================================
+   GBSBFORYOU Super Operating System
+   Common Styles
+   Version: 0.2 Alpha
+   Build-006
+====================================== */
+
+:root{
+    --primary:#0b5ed7;
+    --secondary:#198754;
+    --background:#f4f7fb;
+    --text:#222;
+}
+
+.gsos-hidden{
+    display:none;
+}
